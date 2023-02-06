@@ -1,0 +1,1 @@
+# DIP28SSOP32P1mm
