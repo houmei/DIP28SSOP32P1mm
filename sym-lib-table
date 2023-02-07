@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name 8251a)(type Legacy)(uri ${KIPRJMOD}/Symbols/8251a.lib)(options "")(descr ""))
+  (lib (name 8251a-ssop)(type Legacy)(uri ${KIPRJMOD}/Symbols/8251a-ssop.lib)(options "")(descr ""))
+)
